@@ -1,0 +1,649 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vse and manner of the ballot</title>
+            <author>Harrington, James, 1611-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45623</idno>
+            <idno type="STC">Wing H823</idno>
+            <idno type="STC">ESTC R7063</idno>
+            <idno type="EEBO-CITATION">11896620</idno>
+            <idno type="OCLC">ocm 11896620</idno>
+            <idno type="VID">50556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 533:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vse and manner of the ballot</title>
+                  <author>Harrington, James, 1611-1677.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The text and engraved illus. were subsequently included in his Oceana.</note>
+                  <note>Attributed to James Harrinton. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballot.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:50556:1" rendition="simple:additions"/>
+            <head>The <g ref="char:V">Ʋ</g>ſe and Manner of the BALLOT.</head>
+            <figure>
+               <figDesc>the Senate floor</figDesc>
+            </figure>
+            <p>I Shall endeavour by this <hi>FIG<g ref="char:V">Ʋ</g>RE</hi> to demonſtrate the Manner of the <hi>VENETIAN BALLOT</hi> (a thing as diffiult in diſccourſe or writing, as facile in pra<g ref="char:EOLhyphen"/>ctice) according to the uſe of it in <hi>OCEANA</hi>; whereof the <hi>figure</hi> repreſents the <hi>Senate,</hi> conteining as to the houſe or form of ſittin<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſquare and an half; the <hi>Tribunal</hi> at the upper end, being aſcended by four ſteps. Upon the uppermoſt of theſe ſit the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> that conſtitute the <hi>Signory</hi> of the <hi>Commonwealth,</hi> that is to ſay, (A) the <hi>Strategus</hi>; (B) the <hi>Orator</hi>; (C) the three <hi>Commiſſioners of the great Seal</hi>; (D) the three <hi>Commiſſioners of the Treaſury</hi>; whereof one (E) exerciſeth (for the pre<g ref="char:EOLhyphen"/>ſent) the Office of a <hi>cenſor</hi> at the middle <hi>
+                  <g ref="char:V">Ʋ</g>rne</hi> (F)</p>
+            <p>To the two upper ſteps of the tribunal, anſwer (G G: G G:) the two long <hi>benches</hi> next the wall on each ſide of the houſe; the outward moſt of which are equal in height to the uppermoſt ſtep; and the innermoſt equal in height to the next: of theſe four <hi>benches</hi> conſiſteth the firſt <hi>Seat</hi>: as the ſecond <hi>Seat</hi> conſiſteth in like manner of thoſe four <hi>Benches</hi> (H: H: H: H:) which being next the flore are equal in height to the two nethermoſt ſteps of the Throne: <hi>SO THE WHOLE HO<g ref="char:V">Ʋ</g>SE IS DISTRIB<g ref="char:V">Ʋ</g>TED INTO TWO SEATS, EACH CONSISTING OF FO<g ref="char:V">Ʋ</g>R BENCHES</hi>:</p>
+            <p>This diſtribution cauſeth not only the greater convenien<g ref="char:EOLhyphen"/>cy, as wil be ſhewn unto the Senators in the exerciſe of their Function at the <hi>Ballot,</hi> but a greater <hi>grace</hi> to the <hi>aſpect</hi> of the <hi>Senate.</hi> In the middle of the outward <hi>benches</hi> ſtand (I: I:) <gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>chairs of the Cenſors,</hi> thoſe being their ordinary places, though upon occaſion of the ballot they deſcend and fit where they are ſhewn by (K: K:) at each of the <hi>Outward <g ref="char:V">Ʋ</g>rnes</hi> (L: L:) Thoſe (M: M:) that ſit with their <hi>tables</hi>; and the <hi>bowls</hi> (N: N:) before them: upon the halfpace or ſecond ſtep of the <hi>tribunal</hi> from the floor, are the <hi>Clerks</hi> or <hi>Secre<g ref="char:EOLhyphen"/>taries</hi> of the houſe. Upon the <hi>ſhort ſeats</hi> (O: O:) on the floor (which ſhould have been repreſented by woolſacks) ſit (P:) the two <hi>Tribunes of the horſe</hi>; (Q:) the two <hi>Tribunes of the foot</hi>; and (R: R: R: R:) the <hi>Judges</hi>: all which Magiſtrates are <hi>Aſſiſtants,</hi> but have no <hi>ſufferage.</hi> This <hi>poſture</hi> of the <hi>Se<g ref="char:EOLhyphen"/>nate</hi> conſidered, the <hi>Ballot</hi> is performed as followeth.</p>
+            <p>Firſt, whereas the <hi>gold balls</hi> are <hi>of ſeveral ſuits,</hi> and accor<g ref="char:EOLhyphen"/>dingly <hi>marked</hi> with ſeveral letters of the <hi>Alphabet,</hi> a Secre<g ref="char:EOLhyphen"/>tary preſenteth a <hi>little <g ref="char:V">Ʋ</g>rne</hi> (wherein there is one <hi>ball</hi> of every <hi>ſuit</hi> or <hi>mark</hi>) unto the <hi>Strategus</hi> and the <hi>Orator</hi>; and look, what <hi>Letter</hi> the <hi>Strategus</hi> draweth, the ſame and no other is to be uſed for that time in the <hi>middle <g ref="char:V">Ʋ</g>rne</hi> (F:) the like for the <hi>Letter</hi> drawn by the <hi>Orator</hi> is to be obſerved for the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> (L: L:) that is to ſay, if the <hi>Strategus</hi> drew as <hi>ball</hi> with an <hi>A:</hi> all the <hi>gold balls</hi> in the <hi>middle <g ref="char:V">Ʋ</g>rne</hi> for that day are marked with the <hi>letter A</hi>: and if the <hi>Orator</hi> drew a <hi>B:</hi> all the <hi>gold balls</hi> in the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> for that day are <hi>marked</hi> with the <hi>letter B:</hi> which done immediatly before the Ballot, and ſo the <hi>letter unknown</hi> unto the <hi>Ballotants,</hi> they can uſe no fraud nor juggling; otherwiſe a man might carry a <hi>gold ball</hi> in his hand and ſeem to have drawn it out of an <hi>
+                  <g ref="char:V">Ʋ</g>rne.</hi> He that <hi>draws</hi> a <hi>gold ball</hi> at any <hi>
+                  <g ref="char:V">Ʋ</g>rne,</hi> delivers it unto the <hi>Cenſor</hi> or <hi>Aſſeſſor</hi> of that <hi>
+                  <g ref="char:V">Ʋ</g>rne</hi> who views the <hi>character,</hi> and allows accordingly of his <hi>Lot.</hi>
+            </p>
+            <p>The <hi>Strategus</hi> and the <hi>Orators</hi> having drawn for the Let<g ref="char:EOLhyphen"/>ters, the <hi>
+                  <g ref="char:V">Ʋ</g>rnes</hi> are <hi>prepared</hi> accordingly by one of the <hi>Com<g ref="char:EOLhyphen"/>miſſioners</hi> and the <hi>two Cenſors</hi>: The <hi>preparation</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>rnes</hi> is after this manner. If the Senate be to elect (for Example) the <hi>liſt</hi> called the <hi>Tropick of Magiſtrates</hi>: which is this.</p>
+            <list>
+               <item>1: <hi>The Lord STRATEG<g ref="char:V">Ʋ</g>S.</hi>
+               </item>
+               <item>2. <hi>The Lord ORATOR.</hi>
+               </item>
+               <item>3. <hi>The third COMMISSIONER of the great Seal.</hi>
+               </item>
+               <item>4. <hi>The third COMMISSIONER of the Treaſury</hi>
+               </item>
+               <item>5. <hi>The firſt CENSOR.</hi>
+               </item>
+               <item>6. <hi>The ſecond CENSOR.</hi>
+               </item>
+            </list>
+            <p>The <hi>Laſt or Schedule</hi> conſiſteth of ſix <hi>Magiſtracies,</hi> and unto every <hi>Magiſtracy</hi> there are to be <hi>four C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpetit<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> that is in all <hi>four and twenty Competitors</hi> propoſed unto the <hi>houſe</hi> They that are to <hi>propoſe</hi> the <hi>Competitors</hi> are called <hi>Electors,</hi> and no <hi>Elector</hi> can <hi>propoſe</hi> above one <hi>Competitor:</hi> wherefore for the <hi>pr<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſing</hi> of four and twenty <hi>Competitors</hi> you muſt have four and twenty <hi>Electors:</hi> and whereas the <hi>Ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> con<g ref="char:EOLhyphen"/>ſiſteth of a <hi>LOT</hi> and of a <hi>S<g ref="char:V">Ʋ</g>FFERAGE</hi>; the <hi>L<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> is for no other uſe then for the deſignation of <hi>Electors</hi>; and he that draweth a <hi>gold ball</hi> at the <hi>middle <g ref="char:V">Ʋ</g>rne</hi> is an <hi>Elector.</hi> Now as to have four and twenty <hi>competitors propoſed,</hi> you muſt have four and twenty <hi>Electors</hi> made; ſo to have four and twenty <hi>Electors made by lot,</hi> you muſt have four and twenty <hi>gold balls</hi> in the <hi>middle <g ref="char:V">Ʋ</g>rne,</hi> and theſe (becauſe otherwiſe it would be no <hi>Lot</hi>) mixed with a competent number of <hi>blanks,</hi> or <hi>ſilver balls</hi>; wherefore to the four and twenty <hi>gold balls</hi> caſt ſix and twenty ſilver ones, and that (reckoning the <hi>blanks with the prizes)</hi> makes fifty <hi>balls</hi> in the <hi>middle <g ref="char:V">Ʋ</g>rne.</hi> This done, becauſe no man can come unto the <hi>middle <g ref="char:V">Ʋ</g>rne</hi> that hath not firſt drawn a <hi>golden ball</hi> at one of the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi>; and to be ſure that the <hi>prizes</hi> or <hi>gold balls</hi> in this <hi>
+                  <g ref="char:V">Ʋ</g>rne</hi> be all <hi>drawn,</hi> there muſt come unto it fifty perſons; therefore there muſt be in each of the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> five and twenty <hi>gold balls,</hi> which in both come to fifty; and to the end that every <hi>Senator</hi> may have his <hi>Lot,</hi> the <hi>gold balls</hi> in the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> are to be made up with <hi>blanks</hi> equal unto the number of the <hi>Ballotants</hi> at either <hi>
+                  <g ref="char:V">Ʋ</g>rn<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>; for Example, the houſe conſiſting of 300. <hi>Senators,</hi> there muſt be in each of the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> 125. <hi>blanks</hi> and 25. <hi>prizes,</hi> which comes in both the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> to 300. balls This is the whole <hi>myſtery</hi> of <hi>preparing the <g ref="char:V">Ʋ</g>rnes,</hi> which the <hi>Cenſors</hi> having the ſkill to do accordingly, the reſt of the <hi>Ballot,</hi> whether the parties <hi>balloting</hi> underſtand it or no, muſt of neceſſary conſequence come right; and they can neither be out, nor fall into any confuſion in the exerciſe of this <hi>Art.</hi>
+            </p>
+            <p>But the <hi>Ballot,</hi> as I ſaid, is of two parts; the <hi>LOT</hi> and the <hi>S<g ref="char:V">Ʋ</g>FFERAGE,</hi> or <hi>PROPOSITION</hi> and <hi>RES<g ref="char:V">Ʋ</g>LT</hi>; the <hi>Lot</hi> determines who ſhall <hi>propoſe</hi> the <hi>Competitors</hi>; and the <hi>reſult</hi> of the <hi>Senate</hi> which of the <hi>Competitors</hi> ſhall be the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates.</hi> The whole to begin with the <hi>lot</hi> proceedeth in this manner.</p>
+            <p>The <hi>firſt Secretary</hi> with an audible voice reads firſt the <hi>Liſt</hi> of the <hi>Magiſtrates</hi> to be choſen for the day; then the <hi>Oath</hi> for <hi>fair Election,</hi> at which the <hi>Senators bold up their hands</hi>; which done, another <hi>Secretary</hi> preſents a little <hi>
+                  <g ref="char:V">Ʋ</g>rne</hi> unto the <hi>Strategus,</hi> in which are <hi>four balls,</hi> each of them having one of theſe <hi>Inſcriptions; FIRST SEAT AT THE <g ref="char:V">Ʋ</g>PPER END; FIRST SEAT AT THE LOWER END; SECOND SEAT AT THE <g ref="char:V">Ʋ</g>PPER END; SECOND SEAT AT THE LOWER END</hi>; and look which of them the <hi>Strategus</hi> draweth, the <hi>Secretary</hi> pronouncing the <hi>Inſcrition</hi> with a <hi>loud voice,</hi> the <hi>SEAT</hi> ſo <hi>called</hi> cometh accordingly unto the <hi>
+                  <g ref="char:V">Ʋ</g>rnes</hi>; this in the <hi>Figure</hi> is the <hi>SECOND SEAT AT THE <g ref="char:V">Ʋ</g>PPER END</hi>: The manner of their coming unto the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> is in <hi>double files,</hi> there being two <hi>holes</hi> in the <hi>cover of each ſide <g ref="char:V">Ʋ</g>rne,</hi> by which means two may <hi>draw</hi> at once; the <hi>Senators</hi> therefore (S:S:) are coming from the upper end of their <hi>Seat</hi> (H: H: H: H:) to the <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> (L: L:) The <hi>Senators</hi> (T: T: T:) are <hi>drawing</hi> The <hi>Senator</hi> (V:) hath <hi>drawn a gold ball</hi> at his <hi>ſide <g ref="char:V">Ʋ</g>rne,</hi> and is going unto the <hi>middle <g ref="char:V">Ʋ</g>rne</hi> (F:) where the <hi>Senator</hi> (W:) having done the like at the other <hi>ſide <g ref="char:V">Ʋ</g>rne</hi> is already <hi>draw<g ref="char:EOLhyphen"/>ing.</hi> But the <hi>Senators</hi> (X: X: X: X:) having drawn <hi>blanks</hi> at their <hi>ſide <g ref="char:V">Ʋ</g>rnes</hi> and thrown them into the <hi>Bowls</hi> (Y: Y:) ſtanding at the <hi>feet of the <g ref="char:V">Ʋ</g>rnes,</hi> are marching by the lower end into their <hi>ſeats</hi> again; the <hi>Senator (a</hi>) having done the like at the <hi>middle <g ref="char:V">Ʋ</g>rne,</hi> is alſo throwing his <hi>blank</hi> into the <hi>bowle (b</hi>) and marching to his <hi>ſeat</hi> again; for a man by a prize at a <hi>ſide <g ref="char:V">Ʋ</g>rne,</hi> gains no more then <hi>right</hi> to come unto the <hi>middle <g ref="char:V">Ʋ</g>rne</hi>; where if he <hi>draw</hi> a <hi>blank,</hi> his for<g ref="char:EOLhyphen"/>tune at the <hi>ſide <g ref="char:V">Ʋ</g>rne</hi> comes to nothing at all, wherefore he alſo returns to his <hi>place</hi>: But the <hi>Senator (c</hi>) hath had a <hi>prize</hi> at the <hi>middle <g ref="char:V">Ʋ</g>rne,</hi> where the <hi>Commiſſioner</hi> having <hi>viewed his ball,</hi> and found the <hi>mark</hi> to be right, <hi>he</hi> mar<g ref="char:EOLhyphen"/>cheth up the <hi>ſteps</hi> to the <hi>ſeat of the Electors,</hi> which is the <hi>form (d</hi>) ſet croſs the <hi>Tribunal,</hi> where he placeth himſelf according as he was <hi>drawn</hi> with the other <hi>Electors (e e e) drawn</hi> before him: Theſe are not to <hi>look back,</hi> but ſit with their <hi>faces</hi> towards the <hi>Signory</hi> or <hi>State,</hi> till their number amount unto that of the <hi>Magiſtrates</hi> to be that day <hi>choſen</hi>; which for the preſent, as was ſhewn, is ſix; wherefore <hi>ſix Electors</hi> being made, they are <hi>reckoned</hi> accor<g ref="char:EOLhyphen"/>ding as they were <hi>drawn: Firſt: Second: Third: Fourth: Fifth: Sixth:</hi> in their <hi>Order,</hi> and the <hi>firſt ſix</hi> that are <hi>choſen</hi> are the <hi>FIRST ORDER OF ELECTORS.</hi>
+            </p>
+            <p>
+               <hi>THE FIRST ORDER OF ELECTORS</hi> being made, are conducted by a <hi>Secretary</hi> with a <hi>copie</hi> of the <hi>Liſt</hi> to be choſen, out of the <hi>Senate</hi> and into a <hi>Committee</hi> or <hi>Councel-chamber,</hi> being neither ſuffered by the way, nor in their room (till the <hi>Ballot</hi> be ended) to have conference with any but themſelves; wherefore the <hi>Secretary</hi> having given them their <hi>Oath,</hi> that they ſhall make <hi>Election</hi> according unto the <hi>law</hi> and their <hi>conſcience,</hi> delivereth them the <hi>liſt,</hi> and ſeateth himſelf at the lower end of the <hi>table</hi> with his <hi>pen</hi> and <hi>paper,</hi> while another <hi>Secretary</hi> keepeth the <hi>door.</hi>
+            </p>
+            <p>By ſuch time as the <hi>firſt Order of Electors</hi> are thus ſeated, the <hi>the ſecond Order of Electors</hi> is <hi>drawn,</hi> who with a <hi>ſecond copie</hi> of the <hi>ſame Liſt</hi> are conducted into another <hi>Committee-chamber</hi> by other <hi>Secretaries,</hi> performing the ſame <hi>Office</hi> with the former.</p>
+            <p>The like exactly is done by the <hi>third</hi> and by the <hi>fou<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Orders</hi> (or HANDS, as the <hi>Venetians</hi> call them) of <hi>Electors</hi>; by which means you have the FOUR AND TWENTY ELECTORS DIVIDED ACCORDING TO THE FOUR COPIES OF THE SAME LIST, BY SIX, INTO FOUR HANDS OR ORDERS; and every one of theſe <hi>Orders</hi> nameth one <hi>competitor</hi> unto every <hi>Magiſtracy</hi> in their <hi>Liſt</hi>; that is to ſay, the firſt <hi>Elector</hi> nameth to the firſt <hi>Magiſtracy</hi>; the ſecond <hi>Elector</hi> to the ſecond <hi>Magiſtracy</hi>; and ſo forth; but albeit the <hi>Electors,</hi> as hath been ſhewn, are cho<g ref="char:EOLhyphen"/>ſen by <hi>meer lot,</hi> yet the <hi>Competitors</hi> by them named are not choſen by any <hi>Lot,</hi> but by the <hi>Sufferage</hi> of the <hi>whole Order</hi>: For Exam<g ref="char:EOLhyphen"/>ple; The <hi>firſt Elector</hi> in the <hi>firſt Order propoſeth a name</hi> to be <hi>Stra<g ref="char:EOLhyphen"/>t<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s</hi>; which <hi>name</hi> is <hi>ballotted</hi> by himſelf and the other five <hi>Ele<g ref="char:EOLhyphen"/>ctors</hi>; and if the <hi>name</hi> ſo <hi>ballotted</hi> attain not to above <hi>half the ſuf<g ref="char:EOLhyphen"/>ferages,</hi> it is <hi>laid aſide,</hi> and the <hi>firſt Elector</hi> names another unto the ſame <hi>Magiſtracy</hi>; and ſo in caſe this alſo fail, another, till one that he hath <hi>named,</hi> whether it be himſelf, or ſome other, have <hi>attained</hi> unto above HALF THE SUFFERAGES IN THE AF<g ref="char:EOLhyphen"/>FIRMATIVE; and the <hi>ram</hi> ſo attaining to above half the <hi>Suffe<g ref="char:EOLhyphen"/>rages</hi> in the <hi>affirmative is written to the firſt Magiſtracy</hi> in the <hi>Liſt</hi> by the <hi>Secretary</hi>; which being done, the <hi>ſecond Elector</hi> of the <hi>firſt Older rameth</hi> unto the <hi>ſecond Magiſtracy</hi> till one of h<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>nomination</hi> be choſen unto the ſame; the like is done by the reſt of the <hi>Ele<g ref="char:EOLunhyphen"/>ctors</hi> of the firſt <hi>Order,</hi> till one <hi>competitor</hi> be <hi>choſen</hi> and <hi>written</hi> un<g ref="char:EOLhyphen"/>to every <hi>Magiſtracy</hi> in their <hi>Liſt</hi>: Now the <hi>ſecond, third,</hi> and <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orth Orders</hi> of <hi>Electors</hi> doing exactly a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame manner, to comes to paſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that one <hi>competit<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> unto every <hi>Magiſt<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> being <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſen</hi> in each <hi>Order</hi>; there be in all four <hi>C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tit<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s ch<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> to every <hi>Ma<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtra<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi>
+            </p>
+            <p>If any controverſie ariſe <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>E<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ctor<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> one o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ſors</hi> (theſe being a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) advertiſed b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingeth him <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the <hi>E<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ct<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bound to acquieſce in hi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Conſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> do not <hi>ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alſo a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtan<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it ſhould deform the houſe; wherefore <hi>blanks</hi> in the <hi>ſide <g ref="char:V">Ʋ</g>rns</hi> are by ſo many the fewer. And ſo much or the <hi>Lot,</hi> which is of the greater Art but leſs Conſequence, becaſe it concern<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>p<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi<g ref="char:EOLhyphen"/>tion</hi> only: But all (except the <hi>Tribunes</hi> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Judges,</hi> which being but <hi>Aſſiſta<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts,</hi> have no <hi>Suffe<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ge)</hi> are o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ballot</hi> at the <hi>Reſult,</hi> unto which I now come.</p>
+            <p>The four <hi>Orders</hi> of <hi>Electors</hi> hav<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng perfected their <hi>Liſts,</hi> the face of the <hi>H<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe</hi> is changed; for the <hi>
+                  <g ref="char:V">Ʋ</g>rnes</hi> are taken away, and every <hi>Senator</hi> and <hi>Magiſtrate</hi> is <hi>ſeated</hi> in his proper place, ſaving the <hi>E<g ref="char:EOLhyphen"/>lectors,</hi> who having given their <hi>Suffrages</hi> already, may not ſtir out of their chambers till the <hi>houſe</hi> has given theirs and the reſt of the <hi>Ballot</hi> be performed; which fol<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ws in this manner.</p>
+            <p>The <hi>four Liſts</hi> being preſented b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Secretaries</hi> of each <hi>Councel</hi> of <hi>Electors</hi> unto the <hi>Signory,</hi> are fit <hi>read</hi> according unto their <hi>Order</hi> unto the <hi>H<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe</hi> in an audible o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and then the <hi>Competi<g ref="char:EOLhyphen"/>tors</hi> are PUT UNTO TO THE BALLO<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OR SUFFERAGE OF THE WHOLE SENATE in this manner<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>A<g ref="char:punc">▪</g> A:</hi> named to be <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trat<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in the <hi>firſt Order</hi>; whereupon eigh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>B<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tin<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or <hi>Pa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s<g ref="char:punc">▪</g>
+               </hi> ſuch a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e expreſſed by the figure<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (ſ ſ) take <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> repreſented, th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>del<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by the <hi>figures (g g)</hi> 
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dgo <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur</hi> on the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur</hi> on the <hi>other <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Houſe,</hi> that <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to every bench, ſing<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g, <hi>A. A: named: be the Strategus in th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt Order</hi>; and every <hi>Ma<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ſtrat<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beginning by the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the <hi>Orator</hi> firſt holds up a <hi>little pell<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> of <hi>Linnen</hi> as th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> palleth<g ref="char:punc">▪</g> between his <hi>ſin<g ref="char:EOLhyphen"/>ger</hi> and hi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>thumb,</hi> that men may <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h but one, and then put it into the ſame; the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> co<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g in the inner part of two <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> painted on the outſide <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to diſtinguiſh the <hi>Affirmative</hi> from the <hi>Negative</hi> 
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo m<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ie, that when your hand <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, no man can ſee to w<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich of the <hi>ſides</hi> you put the <hi>Sufferage,</hi> not hear to which it falls, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uſe the <hi>pell<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> being <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nn<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n maketh no noiſe, the <hi>Strategus</hi> and he <hi>Orat<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> having began, all the reſt do the like.</p>
+            <p>The <hi>B<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tins</hi> having thus gathered the <hi>Sufferages,</hi> bring them before the <hi>Sign<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y,</hi> in whoſe preſence the <hi>outward boxes</hi> being o<g ref="char:EOLhyphen"/>pened, they take out the <hi>inner boxes,</hi> whereof the <hi>affirmative</hi> is <hi>white,</hi> and the <hi>negative green,</hi> and poure the <hi>white</hi> into the <hi>b<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wle</hi> (N) on the right hand, which is <hi>white</hi> alſo, and the <hi>green</hi> into the <hi>bowle</hi> (N) on the left, which is alſo <hi>green</hi>; theſe <hi>bowles,</hi> or <hi>ba<g ref="char:EOLhyphen"/>ſons</hi> (better repreſented at the lower end of the Figure by (h <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) be<g ref="char:EOLhyphen"/>ing upon this occaſion ſet before the <hi>tables</hi> of the <hi>Secretaries</hi> at the upper end <hi>(N N)</hi> the <hi>wh<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> on the <hi>right hand,</hi> and the <hi>green</hi> on the <hi>left,</hi> the <hi>Secretaries</hi> on each <hi>ſide</hi> number the <hi>balls</hi>; by which it they find that the <hi>Affirmatives</hi> amount not to above one <hi>half,</hi> they <hi>write</hi> not the <hi>name</hi> that was <hi>balloted</hi>; but if they amount to above one <hi>half,</hi> they <hi>write</hi> it, adding the <hi>number</hi> of <hi>above half</hi> of the <hi>ſufferages</hi> unto which it <hi>attained</hi>; the firſt <hi>name</hi> being <hi>written,</hi> or <hi>laid aſide,</hi> the next that is put is B: B: <hi>named</hi> to be <hi>Strategus</hi> in the <hi>ſecond Order</hi>; the <hi>third</hi> C: C: <hi>named</hi> to be <hi>Strate<g ref="char:EOLhyphen"/>gus</hi> in the <hi>third Order</hi>; the <hi>fourth</hi> D: D: <hi>named</hi> to be <hi>Strategus</hi> in the <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Order</hi>; and he of th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <hi>four Competitors</hi> that hath <hi>m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt a<g ref="char:EOLhyphen"/>b<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve half in the Affirmative,</hi> is the <hi>Magiſtrate</hi>; or if none of them attain to above <hi>half,</hi> the nomination for that <hi>Magiſtrates</hi> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>to be re<g ref="char:EOLhyphen"/>peated by ſuch <hi>new Elector</hi> as ſhall be choſen at the next <hi>Ballot.</hi> And, as is exemplify'd in the <hi>firſt Magiſtracy,</hi> proceeds the <hi>Bal<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t</hi> of the reſt; firſt in the <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſt,</hi> then in the <hi>ſecond,</hi> and ſo in the <hi>third</hi> and <hi>fourth Orders.</hi>
+            </p>
+            <p>Now whereas it may happen that A: A: (for Example) b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>named Strategus</hi> in the <hi>fi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Order,</hi> may alſo be <hi>named</hi> to the ſame o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome one or more other <hi>Magiſtracies,</hi> in one or more of the other <hi>Orders.</hi> His name is firſt <hi>ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted</hi> where it <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>w<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<g ref="char:EOLhyphen"/>ten,</hi> that is, unto the more worthy <hi>Magiſt<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cy,</hi> whereof <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hee miſs, he is <hi>ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted</hi> as it comes in courſe for the <hi>next,</hi> and ſo for <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt,</hi> if he miſs of that, as often as he is <hi>named.</hi>
+            </p>
+            <p>And becauſe to be <hi>named, twice,</hi> or <hi>oftene<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> whether to the ſame, or ſome other <hi>Magiſtracy,</hi> is the ſtronger recommendation: The note muſt not fa<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to be given upon the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rame,</hi> at the pre<g ref="char:EOLhyphen"/>poſition, in this manner.</p>
+            <p>A: A: <hi>named</hi> to be <hi>Strat<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us</hi> in the <hi>firſt,</hi> and in the <hi>ſecond Or<g ref="char:EOLhyphen"/>der.</hi> Or A: A: <hi>named</hi> to be <hi>Strategus</hi> in the <hi>firſt</hi> and the <hi>third</hi>; in the <hi>firſt</hi> and the <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</hi> but if he be <hi>named</hi> to the ſame <hi>Ma<g ref="char:EOLhyphen"/>giſtracy</hi> in the <hi>firſt, ſecond, third,</hi> and <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urth Orders,</hi> he can have no <hi>Competitor</hi>; wherefore attaining to above half the <hi>Sufferages,</hi> he is the <hi>Magiſtrate.</hi>
+            </p>
+            <p>Or thus: A: A: <hi>named</hi> to be <hi>Strategus</hi> in the <hi>firſt,</hi> to be <hi>Cenſor</hi> in the <hi>ſecond,</hi> to be <hi>Orator</hi> in the <hi>third,</hi> and to be <hi>Commiſſione<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Seal</hi> in the <hi>fourth Order,</hi> or the like in more or fewer <hi>Or<g ref="char:EOLhyphen"/>ders</hi>: In which caſes if he miſs of the <hi>firſt Magiſtracy,</hi> he is <hi>ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to the <hi>ſecond</hi>; it he miſs o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>ſecond,</hi> to the <hi>third</hi>; and if he miſs of the <hi>third,</hi> to the <hi>f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth.</hi>
+            </p>
+            <p>The <hi>Ball<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> not finiſhed before <hi>Sun-ſet,</hi> though the <hi>Election</hi> of the <hi>Mag<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> already <hi>choſen</hi> be <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Election</hi> of ſuch <hi>Competit<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s</hi> a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>ch<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſen</hi> are not yet furniſhed with <hi>Magiſtra<g ref="char:EOLunhyphen"/>cies</hi> a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if they had never been <hi>named</hi> (for th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is no <hi>J<g ref="char:V">Ʋ</g>GG<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>IN<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>N,</hi> but an <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that muſt ſee the Sun) and the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>allot</hi> for the <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>maining <hi>Ma<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acies</hi> i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be repeated the next day by new <hi>O<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r</hi> of <hi>El<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> and ſuch <hi>C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>petit<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> as by them ſhall be <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> In like manner, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of all the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> propoſed unto the ſame <hi>Ma<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtra<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> no one of them a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain unto above half the <hi>Sufferages</hi> in the <hi>Affirmative.</hi>
+            </p>
+            <p>The <hi>S<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rat<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>an Ball</hi> to <hi>O<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> being thus deſcribed. Th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of the <hi>Pa<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul,</hi> of the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</hi> and of the <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being ſo little diffe<g ref="char:EOLhyphen"/>rent, that w<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are all contained<g ref="char:punc">▪</g> and by this may be eaſily underſtood <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> omitted</p>
+         </div>
+      </body>
+   </text>
+</TEI>
